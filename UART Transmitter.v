@@ -1,14 +1,14 @@
 module UART_TX 
-  (input  wire [7:0] IDATA ,
-   input  wire       IEN ,
-   input  wire       ICLK_50 ,
-   input  wire       ICLKEN ,
-   output reg        OTX ,
-   output wire       OTX_BUSY);
+  (input  wire [7:0] IDATA ,   //input data
+   input  wire       IEN ,     //input enable
+   input  wire       ICLK_50 , //input clock 50 MHZ
+   input  wire       ICLKEN ,  //input clock internal for transmitter
+   output reg        OTX ,     //output TX
+   output wire       OTX_BUSY);//output TX Busy , it's a wire to indicate if OTX available or not
 
 initial
   begin
-   OTX = 1'b1;
+   OTX = 1'b1; // It's the idle condition
   end
 
 parameter STATE_IDLE = 2'b00;
