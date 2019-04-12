@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/git/UARTCHIP
+vBAUDGEN
+!s110 1554996189
+!i10b 1
+!s100 P3Ha`@CnZOX42>:f>^T:n3
+Ib61W6Ve>2f=6zekGJ?Zm00
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/git/UARTFULLVROMAR
+w1554996186
+8C:/git/UARTFULLVROMAR/BAUDRATE.v
+FC:/git/UARTFULLVROMAR/BAUDRATE.v
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1554996189.000000
+!s107 C:/git/UARTFULLVROMAR/BAUDRATE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/git/UARTFULLVROMAR/BAUDRATE.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@b@a@u@d@g@e@n
+vUART_RX
+!s110 1555062952
+!i10b 1
+!s100 ?oO`0g4bz[09A?chzK]GY1
+IH_;4og>NbZgPDmUaEfbn71
+R0
+R1
+w1555062949
+8C:/git/UARTFULLVROMAR/RXMODULE.v
+FC:/git/UARTFULLVROMAR/RXMODULE.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1555062952.000000
+!s107 C:/git/UARTFULLVROMAR/RXMODULE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/git/UARTFULLVROMAR/RXMODULE.v|
+!s101 -O0
+!i113 1
+R3
+n@u@a@r@t_@r@x
+vUART_TX
+!s110 1555012715
+!i10b 1
+!s100 YVK]5nI[0VB4i5Sz;bgb33
+IzHI:4?93?0U4bQ?8lk1:[0
+R0
+R1
+w1555012713
+8C:/git/UARTFULLVROMAR/TXMODULE.v
+FC:/git/UARTFULLVROMAR/TXMODULE.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1555012715.000000
+!s107 C:/git/UARTFULLVROMAR/TXMODULE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/git/UARTFULLVROMAR/TXMODULE.v|
+!s101 -O0
+!i113 1
+R3
+n@u@a@r@t_@t@x
